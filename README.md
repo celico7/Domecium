@@ -102,7 +102,7 @@ Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 ![Dark Lab Environment](images/lab_torch.png)
 
 ### 🌌 Première salle
-![Third Person Gameplay](images/third_person.png)
+![Third Person Gameplay](images/first_room.png)
 
 ### 🦖 La salle finale : le dôme
 ![Final Dome](images/dome_battle.png)
