@@ -63,14 +63,14 @@ Au cours du développement du projet, plusieurs domaines d’Unreal Engine ont �
 
 ## ⚙️ Fonctionnalités principales
 
-- 🧍 Vue à la **troisième personne** + transition vers la **première personne**
-- 🔫 Une **arme** pour se défendre contre les ennemis
-- 🔦 **Lampe torche dynamique** dans un environnement sombre
-- 🧠 **IA d’ennemis** avec détection et attaque
-- 🎯 **Système de tourelle automatisée** qui détecte le joueur comme cible
-- 🧩 **Système de codes d’accès** et de portes verrouillées
-- 🧱 **Niveaux multiples** : laboratoire ancien → zones futuristes → dôme naturel final
-- 💥 **Effets de particules**, impacts de tirs, destruction d’objets
+- Vue à la **troisième personne** + transition vers la **première personne**
+- Une **arme** pour se défendre contre les ennemis
+- **Lampe torche dynamique** dans un environnement sombre
+- **IA d’ennemis** avec détection et attaque
+- **Système de tourelle automatisée** qui détecte le joueur comme cible
+- **Système de codes d’accès** et de portes verrouillées
+- **Niveaux multiples** : laboratoire ancien → zones futuristes → dôme naturel final
+- **Effets de particules**, impacts de tirs, destruction d’objets
 
 ---
 
@@ -78,19 +78,19 @@ Au cours du développement du projet, plusieurs domaines d’Unreal Engine ont �
 
 Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 
-### 📘 Exemple : Système de santé
+### Exemple : Système de santé
 ![Update Health Blueprint](images/update_health.png)
 > Gestion de la santé du joueur et des ennemis, avec mise à jour dynamique du HUD.
 
-### 📘 Exemple : Système de spawn
+### Exemple : Système de spawn
 ![Spawner Blueprint](images/spawner.png)
 > Apparition progressive d’ennemis selon la progression du joueur dans la carte.
 
-### 📘 Exemple : Interaction avec l’environnement
+### Exemple : Interaction avec l’environnement
 ![Door Access Blueprint](images/door_access.png)
 > Déblocage de portes via la récupération de codes d’accès.
 
-### 📘 Exemple : Système de tourelle automatisée
+### Exemple : Système de tourelle automatisée
 ![Turret Blueprint](images/turret_blueprint.png)
 > Blueprint gérant la détection du joueur, rotation automatique, tir de projectiles et mise à jour du système de santé.
 
@@ -98,13 +98,13 @@ Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 
 ## 🖼️ Illustrations du jeu
 
-### 🔦 Exploration à la lampe torche
+### Exploration à la lampe torche
 ![Dark Lab Environment](images/torch.png)
 
-### 🌌 Première salle
+### Première salle
 ![Third Person Gameplay](images/first_room.png)
 
-### 🦖 La salle finale : le dôme
+### La salle finale : le dôme
 ![Final Dome](images/dome_battle.png)
 
 ---
