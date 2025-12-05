@@ -17,7 +17,7 @@
 
 ## 🎮 Résumé du jeu
 
-**(Titre du jeu)** est un **shooter narratif** développé sous **Unreal Engine 5**, mêlant **vue à la troisième personne** et **séquences immersives à la première personne**.
+**Domecium** est un **shooter narratif** développé sous **Unreal Engine 5**, mêlant **vue à la troisième personne** et **séquences immersives à la première personne**.
 
 
 Le joueur débute dans un environnement sombre et inquiétant, équipé d'une arme et d’une lampe torche pour se repérer.  
