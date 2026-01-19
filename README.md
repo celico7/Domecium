@@ -24,7 +24,7 @@ Le joueur débute dans un environnement sombre et inquiétant, équipé d'une ar
 Progressivement, il découvre un complexe scientifique composé de **zones futuristes** et de **laboratoires anciens**, où il doit :
 - Explorer pour trouver des **codes d’accès** et **débloquer des salles** ;
 - Survivre face à des **ennemis qui apparaissent dynamiquement** ;
-- Dans la salle finale, affronter des **Spinosaures** dans un dôme.
+- Dans la salle finale, affronter des **monstres** dans un dôme.
 
 L’objectif : **s’échapper du complexe** en surmontant les pièges, énigmes et vagues d'ennemies.
 
