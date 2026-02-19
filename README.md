@@ -116,3 +116,6 @@ Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 ## 🎥 Vidéo du gameplay à la troisième personne
 
 [![Game](https://img.youtube.com/vi/TJ2mi7FuY3A/0.jpg)](https://www.youtube.com/watch?v=TJ2mi7FuY3A)
+
+## 🎥 Vidéo du gamedesign première personne
+[![Aperçu de la vidéo](https://img.youtube.com/vi/GIw8rGzflMw/0.jpg)](https://www.youtube.com/watch?v=GIw8rGzflMw)
