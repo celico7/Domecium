@@ -78,7 +78,7 @@ Au cours du développement du projet, plusieurs domaines d’Unreal Engine ont �
 
 Voici quelques exemples visuels de logique Blueprint utilisée dans le projet :
 
-### Exemple : Système de l'ennemy
+### Exemple : Système d'ennemi
 🔗 [Voir le Blueprint sur blueprintue.com](https://blueprintue.com/blueprint/lw1-h4yw/)
 > Gestion de l'ia des ennemis.
 
